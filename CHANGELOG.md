@@ -1,0 +1,9 @@
+# Changelog
+
+All notable changes to this bot project are recorded here.
+
+## 2026-03-01 12:49:03. UTC
+- Request: Build a Telegram crypto price + alerts bot: - scan new pair of solana listing on raydium - Watchlist: add/remove coins and list watchlist. - Price lookup: /price <symbol> (returns price + 24h change). - Alerts: set abov…
+- Summary: Created the Solana Alert Watcher Telegram bot project with grammY, MongoDB persistence (with in-memory fallback), /start /help /price /watchlist /alerts /alert /reset, inline button flows, TTL caching, and two in-proces…
+- Files: .env.sample, DOCS.md, README.md, package.json, project.json, src/bot.js, src/commands/alerts.js, src/commands/help.js, src/commands/loader.js, src/commands/price.js, src/commands/reset.js, src/commands/start.js, src/commands/watchlist.js, src/features/menus.j…
+

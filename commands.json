@@ -1,0 +1,30 @@
+[
+  {
+    "name": "alert",
+    "file": "src/commands/alerts.js"
+  },
+  {
+    "name": "alerts",
+    "file": "src/commands/alerts.js"
+  },
+  {
+    "name": "help",
+    "file": "src/commands/help.js"
+  },
+  {
+    "name": "price",
+    "file": "src/commands/price.js"
+  },
+  {
+    "name": "reset",
+    "file": "src/commands/reset.js"
+  },
+  {
+    "name": "start",
+    "file": "src/commands/start.js"
+  },
+  {
+    "name": "watchlist",
+    "file": "src/commands/watchlist.js"
+  }
+]
